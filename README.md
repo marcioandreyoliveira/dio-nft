@@ -15,4 +15,4 @@ Abaixo está o link para visuálizá-lo:
 
 E aqui a imagem da minha área privada na [testnet da OpenSea](https://testnets.opensea.io/):
 
-[dio-nft-criado-na-opensea.png](dio-nft-criado-na-opensea.png)
+![Imagem minha área privada na OpenSea](dio-nft-criado-na-opensea.png)
