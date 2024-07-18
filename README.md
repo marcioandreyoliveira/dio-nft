@@ -11,3 +11,8 @@ Abaixo está o link para visuálizá-lo:
 
 
 ![Imagem usada no NFT](plicatibu512.png)
+
+
+E aqui a imagem da minha área privada na [testnet da OpenSea](https://testnets.opensea.io/):
+
+[dio-nft-criado-na-opensea.png](dio-nft-criado-na-opensea.png)
